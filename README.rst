@@ -8,7 +8,6 @@ Contiene las 3 tareas principales cuando se quiere utilizar una instancia de Sol
 3. Clientes para búsqueda
 
 El paquete esta separado también de acuerdo a estas tareas:
-This is a top-level paragraph.
 
 /solr
     
