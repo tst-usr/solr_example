@@ -1,0 +1,30 @@
+maderable
+albura
+brillo
+color
+corteza
+densidad
+descripción
+durabilidad
+duramen
+dureza
+elasticidad
+entrecruzado
+exudado
+grano
+hongos
+humedad
+insectos
+irregular
+lenticelas
+madera
+oblicuo
+olor
+ondulado
+propiedades mecánicas
+recto
+sabor
+termitas
+textura
+veteado
+xilófagos marinos

@@ -1,0 +1,12 @@
+version: "2"
+services:
+  taller_solr:
+    container_name: "taller_solr"
+    build:
+      context: ./solr
+    image: "taller_solr"
+    ports:
+      - "8984:8983"
+    environment:
+      - SOLR_OPTS=-Xmx4g
+    restart: unless-stopped

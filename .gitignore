@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/*
+bin/*
+lib/*
+include/*
+pyvenv.cfg
+server/logs/*
+server/node_modules/*
